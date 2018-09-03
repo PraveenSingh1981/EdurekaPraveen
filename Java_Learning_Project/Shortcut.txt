@@ -3,6 +3,8 @@ CTRL + S --> Save File
 SHIFT + CTRL + S --> Save all files
 SHIFT + CTRL + F --> For indenting the code or Formatting the code
 
+For Code Repository
 https://github.com/PraveenSingh1981/EdurekaPraveen.git
 
 https://github.com/saurabhd2106/edureka25082018.git
+
