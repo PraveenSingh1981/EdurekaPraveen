@@ -15,13 +15,13 @@ public class GreatestOutOfTwoNumbers {
 			System.out.println("First Number is Greatest");
 		}
 
-		if (firstnum == secondnum)
+		else if (firstnum == secondnum)
 
 		{
 			System.out.println("Both Numbers are Equal");
 		}
 
-		else
+		else if (secondnum > firstnum)
 
 		{
 			System.out.println("Second Number is Greatest");

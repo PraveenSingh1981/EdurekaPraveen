@@ -2,6 +2,8 @@ syso + CTRL + Spacebar + Enter --> Print System.out.println
 CTRL + S --> Save File
 SHIFT + CTRL + S --> Save all files
 SHIFT + CTRL + F --> For indenting the code or Formatting the code
+CTRL + SHIFT + B--> Toggle Brekpoint
+
 
 For Code Repository
 https://github.com/PraveenSingh1981/EdurekaPraveen.git
